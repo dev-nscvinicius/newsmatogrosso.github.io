@@ -1,0 +1,5 @@
+News Mato Grosso = newsmatogrosso.com
+BD = {name: 'noticias' usuarios:'root'senha:'' host : 'localhost'
+usuario=master
+senha= 2aU#LhWoJ!TR7nsw4I
+
